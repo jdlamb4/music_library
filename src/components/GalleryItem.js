@@ -29,7 +29,7 @@ function GalleryItem(props){
                 <h4>{props.item.collectionName}</h4>
             </div>
         )
-    }
+    } 
 
     const detailView = () => {
         return (
